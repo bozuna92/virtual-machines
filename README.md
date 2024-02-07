@@ -1,3 +1,11 @@
+
+![image](https://github.com/bozuna92/virtual-machines/assets/155588954/de4583e1-9194-42cd-acbc-458bd62fb522)
+
+
+
+
+
+
 # virtual-machines
 
 What is a virtual machine? It is basically a digital version of a physical computer.
