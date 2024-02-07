@@ -5,7 +5,6 @@
 
 
 
-
 # virtual-machines
 
 <h2>What is a virtual machine? It is basically a digital version of a physical computer.
@@ -14,12 +13,17 @@ and do other computing functions, and requires maintenance such as updates and s
 
 
 
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure 
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> 
 
 
 
-
-
-# -creating a virtual machine within azure
+# creating a virtual machine within azure
 
 1. click on virtual machines or search virtual machines
    
