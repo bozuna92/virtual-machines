@@ -8,14 +8,19 @@
 
 # virtual-machines
 
-What is a virtual machine? It is basically a digital version of a physical computer.
+<h2>What is a virtual machine? It is basically a digital version of a physical computer.
 The virutal machine can run programs and operating systems, store data, connect to networks,
 and do other computing functions, and requires maintenance such as updates and system monitoring.
 
 
 
 
--creating a virtual machine within azure
+
+
+
+
+# -creating a virtual machine within azure
+
 1. click on virtual machines or search virtual machines
    
    ![image](https://github.com/bozuna92/virtual-machines/assets/155588954/6c00f234-a54c-4ccd-b3bb-ce8d813afcf1)
